@@ -1,4 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Text;
+using System.Threading.Tasks;
+
+
 
 namespace todoit
 {
@@ -10,16 +17,10 @@ namespace todoit
 
 
 
-
-
         //constructur to reach and ref to this
 
 
-
-
         //Method gets and sets properties
-
-
 
 
     }
@@ -50,4 +51,11 @@ namespace todoit
             set { lastName = value; }
         }
     }
+
+
 }
+
+
+
+
+
